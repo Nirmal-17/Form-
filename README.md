@@ -1,5 +1,4 @@
 # Form-
-A simple from that takes data of user ...It is made by using Dotnet MVC. Still on progress.....
 <html>
   <head>
     <title>FORM USING DOTNET MVC</title>
